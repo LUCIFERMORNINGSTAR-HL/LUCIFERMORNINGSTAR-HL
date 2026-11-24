@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380">
+<rect x="1" y="1" width="898" height="378" rx="14" fill="#0d1117" stroke="#30363d"/>
+<text x="24" y="34" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="14" fill="#e6edf3">In-Vehicle Network</text>
+<text x="24" y="54" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">CAN 2.0B · 500 kbit/s · 120 Ω terminated</text>
+<line x1="20" y1="306" x2="880" y2="306" stroke="#30363d" stroke-width="2"/>
+<line x1="20" y1="318" x2="880" y2="318" stroke="#8b949e" stroke-width="3" stroke-dasharray="30 30"><animate attributeName="stroke-dashoffset" from="0" to="60" dur="0.6s" repeatCount="indefinite"/></line>
+<path d="M50,268 L50,215 Q55,190 110,182 L240,170 Q300,95 390,80 L570,80 Q640,84 700,160 L810,175 Q850,182 850,215 L850,268 Z" fill="#161b22" stroke="#30363d" stroke-width="2.5"/>
+<path d="M265,168 Q315,105 392,93 L560,93 Q615,97 665,158 Z" fill="#010409" stroke="#30363d"/>
+<line x1="470" y1="93" x2="470" y2="165" stroke="#30363d" stroke-width="3"/>
+<rect x="830" y="196" width="18" height="10" rx="3" fill="#d29922"><animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/></rect>
+<rect x="52" y="196" width="14" height="10" rx="3" fill="#f85149"/>
+<text x="380" y="140" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#2ea043">ECU NETWORK</text>
+<text x="565" y="140" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">ID 0x1A3 <tspan fill="#2ea043">▶</tspan></text>
+<line x1="95" y1="226" x2="805" y2="226" stroke="#f85149" stroke-width="2.5"/>
+<line x1="95" y1="233" x2="805" y2="233" stroke="#58a6ff" stroke-width="2.5"/>
+<rect x="81" y="222" width="14" height="15" rx="2" fill="#0d1117" stroke="#8b949e"/>
+<rect x="805" y="222" width="14" height="15" rx="2" fill="#0d1117" stroke="#8b949e"/>
+<text x="100" y="250" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="9" fill="#f85149">CAN_H</text>
+<text x="145" y="250" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="9" fill="#58a6ff">CAN_L</text>
+<line x1="750" y1="214" x2="750" y2="233" stroke="#8b949e" stroke-width="2"/>
+<rect x="710" y="188" width="80" height="26" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2"><animate attributeName="stroke" values="#30363d;#2ea043;#2ea043;#30363d;#30363d" keyTimes="0;0.000;0.010;0.080;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<text x="750" y="205" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#e6edf3">ENGINE</text>
+<line x1="605" y1="214" x2="605" y2="233" stroke="#8b949e" stroke-width="2"/>
+<rect x="565" y="188" width="80" height="26" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2"><animate attributeName="stroke" values="#30363d;#2ea043;#2ea043;#30363d;#30363d" keyTimes="0;0.400;0.410;0.480;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<text x="605" y="205" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#e6edf3">ABS</text>
+<line x1="450" y1="214" x2="450" y2="233" stroke="#8b949e" stroke-width="2"/>
+<rect x="410" y="188" width="80" height="26" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2"><animate attributeName="stroke" values="#30363d;#2ea043;#2ea043;#30363d;#30363d" keyTimes="0;0.200;0.210;0.280;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<text x="450" y="205" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#e6edf3">ADAS</text>
+<line x1="295" y1="214" x2="295" y2="233" stroke="#8b949e" stroke-width="2"/>
+<rect x="255" y="188" width="80" height="26" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2"><animate attributeName="stroke" values="#30363d;#2ea043;#2ea043;#30363d;#30363d" keyTimes="0;0.600;0.610;0.680;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<text x="295" y="205" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#e6edf3">BCM</text>
+<line x1="150" y1="214" x2="150" y2="233" stroke="#8b949e" stroke-width="2"/>
+<rect x="110" y="188" width="80" height="26" rx="5" fill="#0d1117" stroke="#30363d" stroke-width="2"><animate attributeName="stroke" values="#30363d;#2ea043;#2ea043;#30363d;#30363d" keyTimes="0;0.800;0.810;0.880;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<text x="150" y="205" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#e6edf3">INFOTAIN</text>
+<rect x="-9" y="-5" width="18" height="10" rx="2" fill="#2ea043" opacity="0"><animateMotion path="M750,229.5 L450,229.5" keyPoints="0;0;1;1" keyTimes="0;0.000;0.187;1" calcMode="linear" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.000;0.010;0.177;0.187;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<rect x="-9" y="-5" width="18" height="10" rx="2" fill="#2ea043" opacity="0"><animateMotion path="M450,229.5 L605,229.5" keyPoints="0;0;1;1" keyTimes="0;0.200;0.387;1" calcMode="linear" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.200;0.210;0.377;0.387;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<rect x="-9" y="-5" width="18" height="10" rx="2" fill="#2ea043" opacity="0"><animateMotion path="M605,229.5 L150,229.5" keyPoints="0;0;1;1" keyTimes="0;0.400;0.587;1" calcMode="linear" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.400;0.410;0.577;0.587;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<rect x="-9" y="-5" width="18" height="10" rx="2" fill="#2ea043" opacity="0"><animateMotion path="M295,229.5 L750,229.5" keyPoints="0;0;1;1" keyTimes="0;0.600;0.787;1" calcMode="linear" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.600;0.610;0.777;0.787;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<rect x="-9" y="-5" width="18" height="10" rx="2" fill="#2ea043" opacity="0"><animateMotion path="M150,229.5 L295,229.5" keyPoints="0;0;1;1" keyTimes="0;0.800;0.987;1" calcMode="linear" dur="7.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.800;0.810;0.977;0.987;1" dur="7.5s" repeatCount="indefinite"/></rect>
+<circle cx="215" cy="270" r="36" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g><circle cx="215" cy="270" r="30" fill="#21262d" stroke="#8b949e" stroke-width="3"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(0 215 270)"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(60 215 270)"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(120 215 270)"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(180 215 270)"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(240 215 270)"/>
+<line x1="215" y1="270" x2="215" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(300 215 270)"/>
+<circle cx="215" cy="270" r="7" fill="#8b949e"/><animateTransform attributeName="transform" type="rotate" from="0 215 270" to="360 215 270" dur="0.8s" repeatCount="indefinite"/></g>
+<circle cx="685" cy="270" r="36" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+<g><circle cx="685" cy="270" r="30" fill="#21262d" stroke="#8b949e" stroke-width="3"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(0 685 270)"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(60 685 270)"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(120 685 270)"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(180 685 270)"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(240 685 270)"/>
+<line x1="685" y1="270" x2="685" y2="244" stroke="#8b949e" stroke-width="3" transform="rotate(300 685 270)"/>
+<circle cx="685" cy="270" r="7" fill="#8b949e"/><animateTransform attributeName="transform" type="rotate" from="0 685 270" to="360 685 270" dur="0.8s" repeatCount="indefinite"/></g>
+<text x="24" y="353" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">FRAME</text>
+<rect x="105" y="335" width="40" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="125.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">SOF</text>
+<rect x="145" y="335" width="110" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="200.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">ID 11b</text>
+<rect x="255" y="335" width="45" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="277.5" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">RTR</text>
+<rect x="300" y="335" width="60" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="330.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">DLC</text>
+<rect x="360" y="335" width="230" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="475.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">DATA 0-8B</text>
+<rect x="590" y="335" width="120" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="650.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">CRC</text>
+<rect x="710" y="335" width="60" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="740.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">ACK</text>
+<rect x="770" y="335" width="80" height="26" fill="#161b22" stroke="#30363d"/>
+<text x="810.0" y="352" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">EOF</text>
+<rect y="335" height="26" fill="#2ea043" fill-opacity="0.25" stroke="#2ea043" x="105" width="40"><animate attributeName="x" values="105;145;255;300;360;590;710;770;105" dur="4s" calcMode="discrete" repeatCount="indefinite"/><animate attributeName="width" values="40;110;45;60;230;120;60;80;40" dur="4s" calcMode="discrete" repeatCount="indefinite"/></rect>
+</svg>

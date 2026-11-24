@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320">
+<rect x="1" y="1" width="898" height="318" rx="14" fill="#0d1117" stroke="#30363d"/>
+<defs><clipPath id="scope"><rect x="420" y="40" width="450" height="250"/></clipPath></defs>
+<rect x="115.2" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.000s" repeatCount="indefinite"/></rect>
+<rect x="133.4" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.080s" repeatCount="indefinite"/></rect>
+<rect x="151.5" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.160s" repeatCount="indefinite"/></rect>
+<rect x="169.7" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.240s" repeatCount="indefinite"/></rect>
+<rect x="187.9" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.320s" repeatCount="indefinite"/></rect>
+<rect x="206.1" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.400s" repeatCount="indefinite"/></rect>
+<rect x="224.3" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.480s" repeatCount="indefinite"/></rect>
+<rect x="242.5" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.560s" repeatCount="indefinite"/></rect>
+<rect x="260.6" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.640s" repeatCount="indefinite"/></rect>
+<rect x="278.8" y="42.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.720s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="75.2" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.800s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="93.4" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.880s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="111.5" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="0.960s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="129.7" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.040s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="147.9" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.120s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="166.1" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.200s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="184.3" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.280s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="202.5" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.360s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="220.6" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.440s" repeatCount="indefinite"/></rect>
+<rect x="300.0" y="238.8" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.520s" repeatCount="indefinite"/></rect>
+<rect x="278.8" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.600s" repeatCount="indefinite"/></rect>
+<rect x="260.6" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.680s" repeatCount="indefinite"/></rect>
+<rect x="242.5" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.760s" repeatCount="indefinite"/></rect>
+<rect x="224.3" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.840s" repeatCount="indefinite"/></rect>
+<rect x="206.1" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="1.920s" repeatCount="indefinite"/></rect>
+<rect x="187.9" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.000s" repeatCount="indefinite"/></rect>
+<rect x="169.7" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.080s" repeatCount="indefinite"/></rect>
+<rect x="151.5" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.160s" repeatCount="indefinite"/></rect>
+<rect x="133.4" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.240s" repeatCount="indefinite"/></rect>
+<rect x="115.2" y="260.0" width="6" height="18" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.320s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="238.8" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.400s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="220.6" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.480s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="202.5" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.560s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="184.3" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.640s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="166.1" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.720s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="147.9" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.800s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="129.7" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.880s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="111.5" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="2.960s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="93.4" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="3.040s" repeatCount="indefinite"/></rect>
+<rect x="82.0" y="75.2" width="18" height="6" fill="#8b949e"><animate attributeName="fill" values="#8b949e;#2ea043;#8b949e" keyTimes="0;0.05;0.2" dur="3.2s" begin="3.120s" repeatCount="indefinite"/></rect>
+<rect x="100" y="60" width="200" height="200" rx="8" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<circle cx="118" cy="78" r="5" fill="#30363d"/>
+<rect x="160" y="120" width="80" height="80" rx="6" fill="none" stroke="#2ea043" stroke-width="2"><animate attributeName="stroke-opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></rect>
+<text x="200" y="157" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="20" font-weight="700" fill="#e6edf3">MCU</text>
+<text x="200" y="178" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">Cortex-M</text>
+<text x="200" y="238" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="10" fill="#8b949e">ESP32 · STM32</text>
+<path d="M318,96.4 H350 L380,95 H415" fill="none" stroke="#1b3a26" stroke-width="2"/>
+<path d="M318,96.4 H350 L380,95 H415" fill="none" stroke="#2ea043" stroke-width="2" stroke-dasharray="10 200"><animate attributeName="stroke-dashoffset" from="210" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M318,150.9 H350 L380,165 H415" fill="none" stroke="#1b3a26" stroke-width="2"/>
+<path d="M318,150.9 H350 L380,165 H415" fill="none" stroke="#2ea043" stroke-width="2" stroke-dasharray="10 200"><animate attributeName="stroke-dashoffset" from="210" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M318,205.5 H350 L380,235 H415" fill="none" stroke="#1b3a26" stroke-width="2"/>
+<path d="M318,205.5 H350 L380,235 H415" fill="none" stroke="#2ea043" stroke-width="2" stroke-dasharray="10 200"><animate attributeName="stroke-dashoffset" from="210" to="0" dur="1.2s" repeatCount="indefinite"/></path>
+<path d="M190.9,42 V20 H330" fill="none" stroke="#1b3a26" stroke-width="2"/>
+<circle cx="340" cy="20" r="8" fill="#f85149"><animate attributeName="opacity" values="1;1;0.15;0.15" keyTimes="0;0.5;0.5;1" dur="1s" calcMode="discrete" repeatCount="indefinite"/></circle>
+<text x="356" y="24" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">GPIO LED</text>
+<rect x="420" y="40" width="450" height="250" rx="8" fill="#010409" stroke="#30363d"/>
+<line x1="420" y1="40" x2="420" y2="290" stroke="#161b22"/>
+<line x1="465" y1="40" x2="465" y2="290" stroke="#161b22"/>
+<line x1="510" y1="40" x2="510" y2="290" stroke="#161b22"/>
+<line x1="555" y1="40" x2="555" y2="290" stroke="#161b22"/>
+<line x1="600" y1="40" x2="600" y2="290" stroke="#161b22"/>
+<line x1="645" y1="40" x2="645" y2="290" stroke="#161b22"/>
+<line x1="690" y1="40" x2="690" y2="290" stroke="#161b22"/>
+<line x1="735" y1="40" x2="735" y2="290" stroke="#161b22"/>
+<line x1="780" y1="40" x2="780" y2="290" stroke="#161b22"/>
+<line x1="825" y1="40" x2="825" y2="290" stroke="#161b22"/>
+<line x1="870" y1="40" x2="870" y2="290" stroke="#161b22"/>
+<line x1="420" y1="40" x2="870" y2="40" stroke="#161b22"/>
+<line x1="420" y1="65" x2="870" y2="65" stroke="#161b22"/>
+<line x1="420" y1="90" x2="870" y2="90" stroke="#161b22"/>
+<line x1="420" y1="115" x2="870" y2="115" stroke="#161b22"/>
+<line x1="420" y1="140" x2="870" y2="140" stroke="#161b22"/>
+<line x1="420" y1="165" x2="870" y2="165" stroke="#161b22"/>
+<line x1="420" y1="190" x2="870" y2="190" stroke="#161b22"/>
+<line x1="420" y1="215" x2="870" y2="215" stroke="#161b22"/>
+<line x1="420" y1="240" x2="870" y2="240" stroke="#161b22"/>
+<line x1="420" y1="265" x2="870" y2="265" stroke="#161b22"/>
+<line x1="420" y1="290" x2="870" y2="290" stroke="#161b22"/>
+<text x="430" y="32" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#8b949e">LOGIC ANALYZER</text>
+<circle cx="862" cy="28" r="4" fill="#f85149"><animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/></circle>
+<g clip-path="url(#scope)"><g><path d="M0,113 V77 H15.0 V113 H30 V77 H45.0 V113 H60 V77 H75.0 V113 H90 V77 H105.0 V113 H120 V77 H135.0 V113 H150 V77 H165.0 V113 H180 V77 H195.0 V113 H210 V77 H225.0 V113 H240 V77 H255.0 V113 H270 V77 H285.0 V113 H300 V77 H315.0 V113 H330 V77 H345.0 V113 H360 V77 H375.0 V113 H390 V77 H405.0 V113 H420 V77 H435.0 V113 H450 V77 H465.0 V113 H480 V77 H495.0 V113 H510 V77 H525.0 V113 H540 V77 H555.0 V113 H570 V77 H585.0 V113 H600 V77 H615.0 V113 H630 V77 H645.0 V113 H660 V77 H675.0 V113 H690 V77 H705.0 V113 H720 V77 H735.0 V113 H750 V77 H765.0 V113 H780 V77 H795.0 V113 H810 V77 H825.0 V113 H840 V77 H855.0 V113 H870 V77 H885.0 V113 H900 V77 H915.0 V113 H930 V77 H945.0 V113 H960 V77 H975.0 V113 H990 V77 H1005.0 V113 H1020 V77 H1035.0 V113 H1050 V77 H1065.0 V113 H1080 V77 H1095.0 V113 H1110 V77 H1125.0 V113 H1140 V77 H1155.0 V113 H1170 V77 H1185.0 V113 H1200 V77 H1215.0 V113 H1230 V77 H1245.0 V113 H1260 V77 H1275.0 V113 H1290 V77 H1305.0 V113 H1320 V77 H1335.0 V113 H1350 V77 H1365.0 V113 H1380 V77 H1395.0 V113 H1410" transform="translate(420,0)" fill="none" stroke="#58a6ff" stroke-width="2"/><animateTransform attributeName="transform" type="translate" from="0,0" to="-30,0" dur="0.6s" repeatCount="indefinite"/></g></g>
+<rect x="426" y="61" width="34" height="16" rx="3" fill="#010409"/>
+<text x="431" y="73" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#58a6ff">CLK</text>
+<g clip-path="url(#scope)"><g><path d="M0,183 V147 H12.0 V183 H60 V147 H84.0 V183 H120 V147 H156.0 V183 H180 V147 H228.0 V183 H240 V147 H276.0 V183 H300 V147 H324.0 V183 H360 V147 H372.0 V183 H420 V147 H444.0 V183 H480 V147 H516.0 V183 H540 V147 H588.0 V183 H600 V147 H636.0 V183 H660 V147 H684.0 V183 H720 V147 H732.0 V183 H780 V147 H804.0 V183 H840 V147 H876.0 V183 H900 V147 H948.0 V183 H960 V147 H996.0 V183 H1020 V147 H1044.0 V183 H1080 V147 H1092.0 V183 H1140 V147 H1164.0 V183 H1200 V147 H1236.0 V183 H1260 V147 H1308.0 V183 H1320 V147 H1356.0 V183 H1380 V147 H1404.0 V183 H1440" transform="translate(420,0)" fill="none" stroke="#2ea043" stroke-width="2"/><animateTransform attributeName="transform" type="translate" from="0,0" to="-360,0" dur="4.0s" repeatCount="indefinite"/></g></g>
+<rect x="426" y="131" width="34" height="16" rx="3" fill="#010409"/>
+<text x="431" y="143" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#2ea043">PWM</text>
+<g clip-path="url(#scope)"><g><path d="M0,217 V253 H12 V253 H24 V217 H36 V253 H48 V217 H60 V253 H72 V253 H84 V217 H96 V253 H108 V217 H120 V217 H132 V217 H144 V253 H156 V217 H168 V217 H180 V253 H192 V217 H204 V253 H216 V253 H228 V217 H240 V253 H252 V217 H264 V217 H276 V217 H288 V253 H300 V253 H312 V217 H324 V253 H336 V217 H348 V253 H360 V253 H372 V217 H384 V253 H396 V217 H408 V217 H420 V217 H432 V253 H444 V217 H456 V217 H468 V253 H480 V217 H492 V253 H504 V253 H516 V217 H528 V253 H540 V217 H552 V217 H564 V217 H576 V253 H588 V253 H600 V217 H612 V253 H624 V217 H636 V253 H648 V253 H660 V217 H672 V253 H684 V217 H696 V217 H708 V217 H720 V253 H732 V217 H744 V217 H756 V253 H768 V217 H780 V253 H792 V253 H804 V217 H816 V253 H828 V217 H840 V217 H852 V217 H864 V253 H876 V253 H888 V217 H900 V253 H912 V217 H924 V253 H936 V253 H948 V217 H960 V253 H972 V217 H984 V217 H996 V217 H1008 V253 H1020 V217 H1032 V217 H1044 V253 H1056 V217 H1068 V253 H1080 V253 H1092 V217 H1104 V253 H1116 V217 H1128 V217 H1140 V217 H1152 V253 H1164 V253 H1176 V217 H1188 V253 H1200 V217 H1212 V253 H1224 V253 H1236 V217 H1248 V253 H1260 V217 H1272 V217 H1284 V217 H1296 V253 H1308 V217 H1320 V217 H1332 V253 H1344 V217 H1356 V253 H1368 V253 H1380 V217 H1392 V253 H1404 V217 H1416 V217 H1428 V217 H1440" transform="translate(420,0)" fill="none" stroke="#d29922" stroke-width="2"/><animateTransform attributeName="transform" type="translate" from="0,0" to="-288,0" dur="3.0s" repeatCount="indefinite"/></g></g>
+<rect x="426" y="201" width="66" height="16" rx="3" fill="#010409"/>
+<text x="431" y="213" font-family="'Fira Code','JetBrains Mono',Consolas,'Courier New',monospace" font-size="11" fill="#d29922">UART TX</text>
+</svg>
